@@ -14,9 +14,10 @@ Please ask for help if you have never done this before ;)
 
 1. Open dust cover
 2. Place record on platter
-3. Turn knob to 33
-4. Move stylus over record
-5. Press stlyus lever down (pink gaffer's tape)
+3. Turn knob (front left) to 33
+4. Turn amplifier on (switch in back) and set input to `AUX2`
+5. Move stylus over record (keep near outside rim)
+6. Press stlyus lever down (pink gaffer's tape)
   * Please **only** use stylus lever to raise / lower stylus
 6. When record is done playing please raise stylus using lever, place stylus in cradle, and turn off player
 
